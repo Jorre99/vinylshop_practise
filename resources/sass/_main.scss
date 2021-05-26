@@ -1,0 +1,21 @@
+.cardShopMaster {
+    cursor: pointer;
+    .btn{
+        display: none;
+    }
+}
+
+//form{
+//    .btn{
+//        display: none;
+//    }
+//}
+.noty_theme__bootstrap-v4.noty_type__error {
+    background-color: #ff0000;
+    border-color: #ff0000;
+    color: #fff;
+}
+.btn[disabled] {
+    cursor: not-allowed;
+}
+
